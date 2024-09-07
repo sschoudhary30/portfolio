@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="" src="/.github/assets/cover.png" />
-</p>
 
 <h1 align="center">
   shadcn-portfolio
@@ -10,12 +7,8 @@
   <a aria-label="Framework" href="https://nextjs.org">
     <img alt="" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000">
   </a>
-  <img alt="" src="https://img.shields.io/github/languages/top/techwithanirudh/shadcn-portfolio?style=for-the-badge&labelColor=000">
-  <a aria-label="License" href="https://github.com/techwithanirudh/shadcn-portfolio/blob/main/LICENSE">
-    <img alt="" src="https://img.shields.io/github/license/techwithanirudh/shadcn-portfolio?style=for-the-badge&labelColor=000">
-  </a>
+  <img alt="" src="https://img.shields.io/github/languages/top/techwithanirudh/shadcn-portfolio?style=for-the-badge&labelColor=000"> 
 </p>
-
 ## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
@@ -67,7 +60,7 @@ Make sure you have the following installed on your machine:
 **Setting up the Repository**
 
 ```bash
-npx create-next-app -e https://github.com/techwithanirudh/shadcn-portfolio
+npx create-next-app -e https://github.com/sschoudhary30/portfolio.git
 cd shadcn-portfolio
 ```
 
